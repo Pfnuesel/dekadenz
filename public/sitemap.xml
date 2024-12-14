@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/info/musik/</loc>
+    <loc>http://localhost:1313/dekadenz/info/musik/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/konzerte/</loc>
+    <loc>http://localhost:1313/dekadenz/info/konzerte/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/fotos/</loc>
+    <loc>http://localhost:1313/dekadenz/info/fotos/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/about/</loc>
+    <loc>http://localhost:1313/dekadenz/info/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/dekadenz/categories/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/dekadenz/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/dekadenz/post/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/scheiss/</loc>
+    <loc>http://localhost:1313/dekadenz/categories/scheiss/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/oeko/</loc>
+    <loc>http://localhost:1313/dekadenz/post/oeko/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/merch/</loc>
+    <loc>http://localhost:1313/dekadenz/categories/merch/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/merch/</loc>
+    <loc>http://localhost:1313/dekadenz/post/merch/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ep/</loc>
+    <loc>http://localhost:1313/dekadenz/categories/ep/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/fleisch/</loc>
+    <loc>http://localhost:1313/dekadenz/post/fleisch/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/demotape/</loc>
+    <loc>http://localhost:1313/dekadenz/post/demotape/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/info/</loc>
+    <loc>http://localhost:1313/dekadenz/info/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/dekadenz/tags/</loc>
   </url>
 </urlset>
