@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scheiss on Dekadenz Diarrhö</title>
-    <link>http://localhost:42779/categories/scheiss/</link>
+    <link>http://localhost:1313/categories/scheiss/</link>
     <description>Recent content in Scheiss on Dekadenz Diarrhö</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:42779/categories/scheiss/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/scheiss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wir sind auch Ökologisch unterwegs!</title>
-      <link>http://localhost:42779/post/oeko/</link>
+      <link>http://localhost:1313/post/oeko/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42779/post/oeko/</guid>
+      <guid>http://localhost:1313/post/oeko/</guid>
       <description>Nach langem hin und her haben wir gefunden wir achten auf unseren Fussabdruck und fahren wenigstens auf dem Hinweg mit dem Velo.</description>
     </item>
   </channel>

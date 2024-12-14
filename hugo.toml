@@ -1,4 +1,4 @@
-baseURL = 'https://pfnuesel.github.io/dekadenz/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'de-ch'
 title = 'Dekadenz Diarrhö'
 theme = 'mainroad'
@@ -14,8 +14,6 @@ paginate = "10" # Number of posts per page
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["social", "post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
-  customCSS = ["css/custom.css"] # Include custom CSS files
-  customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.style.vars]
   highlightColor = "#770354" # Override highlight color
@@ -49,7 +47,7 @@ paginate = "10" # Number of posts per page
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  email = "deka_dia@proton."
+  email = "deka_dia@proton.me"
 
 # Custom social links
 [[Params.widgets.social.custom]]
