@@ -1,0 +1,58 @@
+baseURL = 'https://diarrhoe.xyz/'
+languageCode = 'de-ch'
+title = 'Dekadenz Diarrhö'
+theme = 'mainroad'
+paginate = "10" # Number of posts per page
+
+[Params]
+  description = "Webseite von Dekadenz Diarrhö" # Site description. Used in meta description
+  copyright = "Dekadenz Diarrhö" # Footer copyright holder, otherwise will use site title
+  readmore = true # Show "Read more" button in list if true
+  authorbox = false # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["social", "post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.style.vars]
+  highlightColor = "#770354" # Override highlight color
+
+  # Override font-family sets
+  # Take care of different quotes OR escaping symbols in these params if necessary
+  fontFamilyPrimary = "'Courier New'"
+  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
+  fontFamilySecondary = "'Courier New'"
+
+[Params.logo]
+  image = "icon.png" # Logo image. Path relative to "static"
+  title = "DIY <3" # Logo title, otherwise will use site title
+  subtitle = "" # Logo subtitle
+
+[Params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = true # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["social", "recent", "categories"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  cached = false # activate cache if true
+  # Enable parts of social widget
+  email = "deka_dia@proton."
+
+# Custom social links
+[[Params.widgets.social.custom]]
+  title = "Bandcamp"
+  url = "https://dekadenzdiarrhoe.bandcamp.com/"
+  # icon = "svg/author.svg" # Optional. Path relative to "layouts/partials"
