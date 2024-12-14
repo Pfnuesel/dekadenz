@@ -2,6 +2,7 @@
 title: "Demo(tape) Jetzt! - unsere erste EP"
 date: 2023-04-06
 thumbnail: "covers/demo.png"
+summary: "Links und Infos zu unserer ersten EP"
 categories:
   - "EP"
 ---

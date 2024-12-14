@@ -2,6 +2,7 @@
 title: "Nöd dis Fleisch - neue EP"
 date: 2024-04-09
 thumbnail: "covers/fleisch.jpg"
+summary: "Links und Infos zu unserer zweiten EP"
 categories:
   - "EP"
 ---
