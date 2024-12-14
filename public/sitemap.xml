@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dekadenz/info/musik/</loc>
+    <loc>https://diarrhoe.xyz/info/musik/</loc>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/info/konzerte/</loc>
+    <loc>https://diarrhoe.xyz/info/konzerte/</loc>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/info/fotos/</loc>
+    <loc>https://diarrhoe.xyz/info/fotos/</loc>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/info/about/</loc>
+    <loc>https://diarrhoe.xyz/info/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/categories/</loc>
+    <loc>https://diarrhoe.xyz/categories/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/</loc>
+    <loc>https://diarrhoe.xyz/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/post/</loc>
+    <loc>https://diarrhoe.xyz/post/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/categories/scheiss/</loc>
+    <loc>https://diarrhoe.xyz/categories/scheiss/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/post/oeko/</loc>
+    <loc>https://diarrhoe.xyz/post/oeko/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/categories/merch/</loc>
+    <loc>https://diarrhoe.xyz/categories/merch/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/post/merch/</loc>
+    <loc>https://diarrhoe.xyz/post/merch/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/categories/ep/</loc>
+    <loc>https://diarrhoe.xyz/categories/ep/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/post/fleisch/</loc>
+    <loc>https://diarrhoe.xyz/post/fleisch/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/post/demotape/</loc>
+    <loc>https://diarrhoe.xyz/post/demotape/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/info/</loc>
+    <loc>https://diarrhoe.xyz/info/</loc>
   </url><url>
-    <loc>http://localhost:1313/dekadenz/tags/</loc>
+    <loc>https://diarrhoe.xyz/tags/</loc>
   </url>
 </urlset>
