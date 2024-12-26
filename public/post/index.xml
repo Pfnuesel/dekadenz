@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dekadenz Diarrhö</title>
-    <link>https://diarrhoe.xyz/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Dekadenz Diarrhö</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://diarrhoe.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Konzert im AKuT - 12.4.2025</title>
+      <link>http://localhost:1313/post/akutkonzert/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/akutkonzert/</guid>
+      <description>Wir spielen wieder im AKuT Thun! Wir haben unseren Merch eingepackt und freuen uns euch dort zu sehen!</description>
+    </item>
     <item>
       <title>Wir sind auch Ökologisch unterwegs!</title>
-      <link>https://diarrhoe.xyz/post/oeko/</link>
+      <link>http://localhost:1313/post/oeko/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/post/oeko/</guid>
+      <guid>http://localhost:1313/post/oeko/</guid>
       <description>Nach langem hin und her haben wir gefunden wir achten auf unseren Fussabdruck und fahren wenigstens auf dem Hinweg mit dem Velo.</description>
     </item>
     <item>
       <title>Wir haben jetzt Merch!</title>
-      <link>https://diarrhoe.xyz/post/merch/</link>
+      <link>http://localhost:1313/post/merch/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/post/merch/</guid>
+      <guid>http://localhost:1313/post/merch/</guid>
       <description>Wir haben jetzt Shirts und Sticker und Plakate wie eine richtige Band. Sie sind an unseren Konzerten erhältlich, ein Grund mehr vorbeizukommen!</description>
     </item>
     <item>
       <title>Nöd dis Fleisch - neue EP</title>
-      <link>https://diarrhoe.xyz/post/fleisch/</link>
+      <link>http://localhost:1313/post/fleisch/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/post/fleisch/</guid>
+      <guid>http://localhost:1313/post/fleisch/</guid>
       <description>Links und Infos zu unserer zweiten EP</description>
     </item>
     <item>
       <title>Demo(tape) Jetzt! - unsere erste EP</title>
-      <link>https://diarrhoe.xyz/post/demotape/</link>
+      <link>http://localhost:1313/post/demotape/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/post/demotape/</guid>
+      <guid>http://localhost:1313/post/demotape/</guid>
       <description>Links und Infos zu unserer ersten EP</description>
     </item>
   </channel>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infoes on Dekadenz Diarrhö</title>
-    <link>https://diarrhoe.xyz/info/</link>
+    <link>http://localhost:1313/info/</link>
     <description>Recent content in Infoes on Dekadenz Diarrhö</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <atom:link href="https://diarrhoe.xyz/info/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Musik</title>
-      <link>https://diarrhoe.xyz/info/musik/</link>
+      <link>http://localhost:1313/info/musik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/info/musik/</guid>
+      <guid>http://localhost:1313/info/musik/</guid>
       <description>Bandcamp All unsere Musik ist auf Bandcamp erhätlich. Alles Prix-Libre!&#xA;Hier kannst du aber schon direkt in unsere EP&amp;rsquo;s reinhören!&#xA;Nöd dis Fleisch! Nöd dis Fleisch by Dekadenz Diarrhö Demo(tape) jetzt! Demo(tape) Jetzt! by Dekadenz Diarrhö </description>
     </item>
     <item>
       <title>Konzerte</title>
-      <link>https://diarrhoe.xyz/info/konzerte/</link>
+      <link>http://localhost:1313/info/konzerte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/info/konzerte/</guid>
-      <description>Nächste Konzerte:&#xA;Wo? Wann? kommt bald Vergangene Daten:&#xA;Wo? Wenn? Post Squat 30.November.2024 Sanatorium-Hausfest 12.September.2024 Post Squat Fest 13.Juli.2024 Alte Post 7.Juli.2024 Provitreff 6.Juli.2024 Köchlistrass 7 27.Januar.2024 KuZeB 19.Januar.2024 Anarchy 2023 - St. Imier 22.Juli.2023 Büezer*Inne Beiz Zürich 29.April.2023 LaKuZ Langenthal 28.April.2023 Koch Zürich 14.Januar.2023 Koch Zürich 22.November.2022 AKuT Thun 12.November.2022 </description>
+      <guid>http://localhost:1313/info/konzerte/</guid>
+      <description>Nächste Konzerte:&#xA;Wo? Wann? AKuT 12.April.2025 Vergangene Daten:&#xA;Wo? Wenn? Post Squat 30.November.2024 Sanatorium-Hausfest 12.September.2024 Post Squat Fest 13.Juli.2024 Alte Post 7.Juli.2024 Provitreff 6.Juli.2024 Köchlistrass 7 27.Januar.2024 KuZeB 19.Januar.2024 Anarchy 2023 - St. Imier 22.Juli.2023 Büezer*Inne Beiz Zürich 29.April.2023 LaKuZ Langenthal 28.April.2023 Koch Zürich 14.Januar.2023 Koch Zürich 22.November.2022 AKuT Thun 12.November.2022 </description>
     </item>
     <item>
       <title>Fotos</title>
-      <link>https://diarrhoe.xyz/info/fotos/</link>
+      <link>http://localhost:1313/info/fotos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/info/fotos/</guid>
+      <guid>http://localhost:1313/info/fotos/</guid>
       <description> Post Squat - 30.11.2024 Koch Squat - 22.11.2023 AKuT - 12.11.2023 </description>
     </item>
     <item>
       <title>Über uns</title>
-      <link>https://diarrhoe.xyz/info/about/</link>
+      <link>http://localhost:1313/info/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/info/about/</guid>
+      <guid>http://localhost:1313/info/about/</guid>
       <description>Wer wir sind Wir sind eine kopflose Band aus Zureich und haben uns auf die Abgabe von zu flüssigem Punk spezialisiert. Am liebsten spielen wir Instrumental mit Gesang und Synthesizer.&#xA;Wir, das sind: Gesang &amp;amp; Synthesizer: Büggelfläsche Gitarre: Schlabbersocke Bass: Ratteschwanz Drums: Blächdose </description>
     </item>
   </channel>

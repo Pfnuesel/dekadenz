@@ -14,7 +14,7 @@ menu: main
 Nächste Konzerte:
 |   Wo?     |    Wann?    |
 | ------------- | ------------- |
-| kommt | bald |
+| AKuT | 12.April.2025 |
 
 Vergangene Daten:
 

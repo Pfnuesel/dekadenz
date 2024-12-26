@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Dekadenz Diarrhö</title>
-    <link>https://diarrhoe.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Dekadenz Diarrhö</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://diarrhoe.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Musik</title>
-      <link>https://diarrhoe.xyz/info/musik/</link>
+      <link>http://localhost:1313/info/musik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/info/musik/</guid>
+      <guid>http://localhost:1313/info/musik/</guid>
       <description>Bandcamp All unsere Musik ist auf Bandcamp erhätlich. Alles Prix-Libre!&#xA;Hier kannst du aber schon direkt in unsere EP&amp;rsquo;s reinhören!&#xA;Nöd dis Fleisch! Nöd dis Fleisch by Dekadenz Diarrhö Demo(tape) jetzt! Demo(tape) Jetzt! by Dekadenz Diarrhö </description>
     </item>
     <item>
       <title>Konzerte</title>
-      <link>https://diarrhoe.xyz/info/konzerte/</link>
+      <link>http://localhost:1313/info/konzerte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/info/konzerte/</guid>
-      <description>Nächste Konzerte:&#xA;Wo? Wann? kommt bald Vergangene Daten:&#xA;Wo? Wenn? Post Squat 30.November.2024 Sanatorium-Hausfest 12.September.2024 Post Squat Fest 13.Juli.2024 Alte Post 7.Juli.2024 Provitreff 6.Juli.2024 Köchlistrass 7 27.Januar.2024 KuZeB 19.Januar.2024 Anarchy 2023 - St. Imier 22.Juli.2023 Büezer*Inne Beiz Zürich 29.April.2023 LaKuZ Langenthal 28.April.2023 Koch Zürich 14.Januar.2023 Koch Zürich 22.November.2022 AKuT Thun 12.November.2022 </description>
+      <guid>http://localhost:1313/info/konzerte/</guid>
+      <description>Nächste Konzerte:&#xA;Wo? Wann? AKuT 12.April.2025 Vergangene Daten:&#xA;Wo? Wenn? Post Squat 30.November.2024 Sanatorium-Hausfest 12.September.2024 Post Squat Fest 13.Juli.2024 Alte Post 7.Juli.2024 Provitreff 6.Juli.2024 Köchlistrass 7 27.Januar.2024 KuZeB 19.Januar.2024 Anarchy 2023 - St. Imier 22.Juli.2023 Büezer*Inne Beiz Zürich 29.April.2023 LaKuZ Langenthal 28.April.2023 Koch Zürich 14.Januar.2023 Koch Zürich 22.November.2022 AKuT Thun 12.November.2022 </description>
     </item>
     <item>
       <title>Fotos</title>
-      <link>https://diarrhoe.xyz/info/fotos/</link>
+      <link>http://localhost:1313/info/fotos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/info/fotos/</guid>
+      <guid>http://localhost:1313/info/fotos/</guid>
       <description> Post Squat - 30.11.2024 Koch Squat - 22.11.2023 AKuT - 12.11.2023 </description>
     </item>
     <item>
       <title>Über uns</title>
-      <link>https://diarrhoe.xyz/info/about/</link>
+      <link>http://localhost:1313/info/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/info/about/</guid>
+      <guid>http://localhost:1313/info/about/</guid>
       <description>Wer wir sind Wir sind eine kopflose Band aus Zureich und haben uns auf die Abgabe von zu flüssigem Punk spezialisiert. Am liebsten spielen wir Instrumental mit Gesang und Synthesizer.&#xA;Wir, das sind: Gesang &amp;amp; Synthesizer: Büggelfläsche Gitarre: Schlabbersocke Bass: Ratteschwanz Drums: Blächdose </description>
     </item>
     <item>
+      <title>Konzert im AKuT - 12.4.2025</title>
+      <link>http://localhost:1313/post/akutkonzert/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/akutkonzert/</guid>
+      <description>Wir spielen wieder im AKuT Thun! Wir haben unseren Merch eingepackt und freuen uns euch dort zu sehen!</description>
+    </item>
+    <item>
       <title>Wir sind auch Ökologisch unterwegs!</title>
-      <link>https://diarrhoe.xyz/post/oeko/</link>
+      <link>http://localhost:1313/post/oeko/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/post/oeko/</guid>
+      <guid>http://localhost:1313/post/oeko/</guid>
       <description>Nach langem hin und her haben wir gefunden wir achten auf unseren Fussabdruck und fahren wenigstens auf dem Hinweg mit dem Velo.</description>
     </item>
     <item>
       <title>Wir haben jetzt Merch!</title>
-      <link>https://diarrhoe.xyz/post/merch/</link>
+      <link>http://localhost:1313/post/merch/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/post/merch/</guid>
+      <guid>http://localhost:1313/post/merch/</guid>
       <description>Wir haben jetzt Shirts und Sticker und Plakate wie eine richtige Band. Sie sind an unseren Konzerten erhältlich, ein Grund mehr vorbeizukommen!</description>
     </item>
     <item>
       <title>Nöd dis Fleisch - neue EP</title>
-      <link>https://diarrhoe.xyz/post/fleisch/</link>
+      <link>http://localhost:1313/post/fleisch/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/post/fleisch/</guid>
+      <guid>http://localhost:1313/post/fleisch/</guid>
       <description>Links und Infos zu unserer zweiten EP</description>
     </item>
     <item>
       <title>Demo(tape) Jetzt! - unsere erste EP</title>
-      <link>https://diarrhoe.xyz/post/demotape/</link>
+      <link>http://localhost:1313/post/demotape/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://diarrhoe.xyz/post/demotape/</guid>
+      <guid>http://localhost:1313/post/demotape/</guid>
       <description>Links und Infos zu unserer ersten EP</description>
     </item>
   </channel>
