@@ -14,7 +14,9 @@ menu: main
 Nächste Konzerte:
 |   Wo?     |    Wann?    |
 | ------------- | ------------- |
+| Gisi | 27.März.2025 |
 | AKuT | 12.April.2025 |
+| Werk21 | 30.April.2025 |
 
 Vergangene Daten:
 
